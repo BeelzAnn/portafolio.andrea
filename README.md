@@ -14,19 +14,19 @@ Primera parte de la página web:
 
 Experiencia:
 
-![Experiencia](Img2.png)
+![Experiencia](Img2.jpg)
 
 Proyectos:
 
-![Proyectos](Img3.png)
+![Proyectos](Im3.jpg)
 
 Testimonios:
 
-![Testimonios](Img4.png)
+![Testimonios](Img4.jpg)
 
 Contacto:
 
-![Contacto](Img5.png)
+![Contacto](Img5.jpg)
 
 ## Tecnologías
 
