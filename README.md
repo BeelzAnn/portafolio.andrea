@@ -10,7 +10,7 @@ También incluye imágenes alternativas en la carpeta imagenes en caso de que se
 
 Primera parte de la página web:
 
-! [primera parte de la paginaweb]
+![primera parte de la paginaweb]
 
 Experiencia:
 
@@ -29,3 +29,14 @@ Contacto:
 ![Contacto]
 
 ## Tecnologías 
+
+Esta página web fue creada con:
+
+HTML
+CSS
+JavaScript
+Arranque 5
+Además, se incluyen Google Fonts para personalizar la fuente e iconos de Bootstrap para incorporar como flechas y logotipos de redes sociales populares.
+
+ingles
+El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyen en inglés.
