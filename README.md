@@ -18,7 +18,7 @@ Experiencia:
 
 Proyectos:
 
-![Proyectos](Im3.jpg)
+![Proyectos](Img3.jpg)
 
 Testimonios:
 
